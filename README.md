@@ -53,3 +53,29 @@ El proyecto es altamente viable debido a:
   
   
 En conclusión, el proyecto es viable, además de tener una aplicación práctica inmediata en un negocio real.
+
+
+OBJETIVOS
+
+Nos proponemos a demostrar como las técnicas de fast prompting pueden ayudarnos a mejorar las interacciones con los clientes.  Para ello, nos proponemos optimizar la forma en que se formulan los prompts para obtener respuestas más rápidas y precisas, para ellos vamos a desarrollar un prototipo simple en la herramienta Jupyter Notebook que simule el funcionamiento del chatbot.
+
+
+METODOLOGÍA
+
+A continuacion desarrollaremos la metodologia que vamos a utilizar
+
+1.	Definir un caso: Un cliente consulta precios y tamaños de mousepads
+2.	Formular un primer prompt extenso y detallado
+3.	Formular un segundo prompt optimizado y condensado (fast prompting)
+4.	Comparar los resultados y mostrar como se puede llegar al mismo resultado.
+5.	Documnetar los resultados
+
+
+HERRAMIENTAS Y TECNOLOGÍAS
+
+•	Jupyter Notebook: Mostraremos la prueba del concepto
+
+•	Python: Para la estructura del código y los ejemplos de prompts
+
+•	Nightcafe: IA de generación de imágenes
+
