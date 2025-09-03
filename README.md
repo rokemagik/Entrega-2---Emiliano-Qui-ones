@@ -26,19 +26,19 @@ El chatbot integrará dos modelos de IA:
   	Texto-texto: La IA (como ChatGPT) responderá preguntas, tales como: medidas, materiales, precios, tiempos de entrega y     los limites de la personalización, etc.
   Los prompts que el chatbot desarrollaría serían:
   
-      •	“Eres un asistente de ArtPads. Responde de forma clara y breve las consultas de los clientes sobre medidas, precios,       materiales, tiempos de entrega y formas de pago. Usa un tono cordial y profesional.”
+  •	“Eres un asistente de ArtPads. Responde de forma clara y breve las consultas de los clientes sobre medidas, precios,       materiales, tiempos de entrega y formas de pago. Usa un tono cordial y profesional.”
       
-      •	“Eres un asistente de ArtPads: El cliente pregunta “[pregunta que hizo el cliente]”. Formula la respuesta utilizando       los siguientes datos:
-      [tabla con datos sobre los productos]
-      Responde de manera cordial y profesional.”
+  •	“Eres un asistente de ArtPads: El cliente pregunta “[pregunta que hizo el cliente]”. Formula la respuesta utilizando       los siguientes datos:
+  [tabla con datos sobre los productos]
+  Responde de manera cordial y profesional.”
       
-      •	“Si un cliente describe un diseño, ayudalo a expresarlo mejor para poder generarlo en una imagen. Luego formula un         prompt descriptivo que pueda usarse en una herramienta de IA de generación de imágenes.”
+  •	“Si un cliente describe un diseño, ayudalo a expresarlo mejor para poder generarlo en una imagen. Luego formula un         prompt descriptivo que pueda usarse en una herramienta de IA de generación de imágenes.”
       
   	Texto-imagen: Se generarán imágenes de mousepads personalizados, que permitirá que el cliente tenga una mejor idea de      como se verá el producto.
   
   Los prompts que generará el chatbot serán:
   
-      •	“Genera la imagen de un mousepad rectangular de [Largo x Ancho] cm con un diseño [insertar la descripción del diseño       que se generó anteriormente”.
+  •	“Genera la imagen de un mousepad rectangular de [Largo x Ancho] cm con un diseño [insertar la descripción del diseño       que se generó anteriormente”.
 
       
 JUSTIFICACIÓN DE LA VIABILIDAD DEL PROYECTO
