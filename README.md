@@ -9,6 +9,7 @@ En mi emprendimiento ArtePads, la cual se dedica al diseño y venta de mousepads
 Actualmente estoy respondiendo las dudas manuelamente, pero me consume mucho tiempo y retrasa las respuestas, lo cual puede afectar la experiencia del cliente y hacerme perder posibles ventas.
 
 El problema que identifico es la falta de automatizacion en la atencion al cliente. Resulta fundamental desarrollar una solucion ya que:
+
   	Los clientes esperan respuestas claras y rápidas 
   	Una atención eficiente mejora las ventas 
   	Resolver el problema permitiría que las ventas escalen sin depender de la disponibilidad horaria
